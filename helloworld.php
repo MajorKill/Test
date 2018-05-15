@@ -1,3 +1,4 @@
-<?php 
+<?php
 
-echo "Hello world - f#$k the world";
+echo "Hello world";
+echo "test line 1";
